@@ -10,8 +10,6 @@
 
 ## Demo
 
-**[CRITICAL: You MUST include a visual demonstration here. Create a GIF or a high-quality image showing the model in action. It should display a side-by-side comparison: 1. The original terrain image. 2. Your model's predicted segmentation mask. 3. The final image with the optimal landing zone highlighted. A project without a visual demo will be ignored.]**
-
 ![Project Demo Image](assets/demo.png)
 
 ## Table of Contents
@@ -64,7 +62,6 @@ Ensure you have Python 3.9+ installed on your system. This project also requires
     ```sh
     pip install -r requirements.txt
     ```
-    **[Action: You need to create a `requirements.txt` file by running `pip freeze > requirements.txt` in your project's virtual environment.]**
 
 ## Usage
 
