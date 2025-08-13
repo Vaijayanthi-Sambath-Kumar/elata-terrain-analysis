@@ -1,0 +1,29 @@
+# Python virtual environments
+/venv/
+/.venv/
+/env/
+/.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE configuration folders
+.idea/
+.vscode/
+
+# Data and large files (IMPORTANT)
+# If your project uses large datasets (e.g., CSVs, images),
+# you must not commit them to Git. Add your data folder or file extensions here.
+# For example:
+# data/
+# *.csv
