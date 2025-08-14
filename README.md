@@ -17,7 +17,7 @@
 - [About The Project](#about-the-project)
 - [Key Features](#key-features)
 - [Tech Stack](#tech-stack)
-- [Dataset](#dataset)
+- [Datasets](#datasets)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -44,12 +44,14 @@ Navigating and landing on extraterrestrial bodies presents significant challenge
 * **Data Manipulation:** NumPy, OpenCV
 * **Visualization:** Matplotlib
 
-## Dataset
+## Datasets
 
-This project is trained on Artificial Lunar Landscape dataset. AI4MARS dataset is used for testing.
+This project is trained on Artificial Lunar Landscape dataset. 
 
 * **Source (Artifical Lunar Landscape Dataset):** https://www.kaggle.com/datasets/romainpessia/artificial-lunar-rocky-landscape-dataset
 * **Description:** The dataset currently contains 9,766 realistic renders of rocky lunar landscapes, and their segmented equivalents (the 3 classes are the sky, smaller rocks, and larger rocks).
+
+This project uses AI4MARS dataset for testing.
 
 * **Source (AI4MARS Dataset):** https://www.kaggle.com/datasets/yash92328/ai4mars-terrainaware-autonomous-driving-on-mars
 * **Description:** This dataset was built for training and validating terrain classification models for Mars. It consists of ~326K semantic segmentation full image labels on 35K images from Curiosity, Opportunity, and Spirit rovers, collected through crowdsourcing. 
